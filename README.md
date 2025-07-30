@@ -34,10 +34,11 @@ The app uses **rule-based evaluation**, not machine learning. Example:
 > Logic is defined in utility classes or main activity (e.g., `Predictor.java` or `MainActivity.java`).
 
 # Secreenshot
-> <img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/4fb2db4e-395c-48fe-9910-8ff856637eed" />
-![WhatsApp Image 2025-07-30 at 15 50 15_e65beea5](https://github.com/user-attachments/assets/b46a7156-5a93-464b-9c0b-b40b2aad092e)
-<img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/e099fc20-fa79-4707-87aa-4d98bbecfcba" />
-<img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/f7a4f7a4-8d7d-4b60-b80c-0cde936ab707" />
+![WhatsApp Image 2025-07-30 at 15 50 15_114eb155](https://github.com/user-attachments/assets/4ecde303-6114-4853-aae2-8240544d8ffd)
+![WhatsApp Image 2025-07-30 at 15 50 15_e65beea5](https://github.com/user-attachments/assets/96affdd8-2f99-4e7d-8b78-689cf5408b4f)
+<img width="200" height="200" alt="Flow 1" src="https://github.com/user-attachments/assets/efd0bac6-80ef-49dd-b34e-75b7966a6604" />
+
+<img width="200" height="200" alt="Flow 2" src="https://github.com/user-attachments/assets/bf849216-862d-4b7e-954d-4a9ccc1454b2" />
 
 ## 🔧 How to Run
 
