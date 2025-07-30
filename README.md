@@ -30,8 +30,8 @@ The Campus Placement App is a real-time Android application designed to streamli
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ecde303-6114-4853-aae2-8240544d8ffd" width="300" height="400" />
   <img src="https://github.com/user-attachments/assets/96affdd8-2f99-4e7d-8b78-689cf5408b4f" width="300" height="400" />
-  <img src="https://github.com/user-attachments/assets/efd0bac6-80ef-49dd-b34e-75b7966a6604" width="400" height="300" />
-  <img src="https://github.com/user-attachments/assets/bf849216-862d-4b7e-954d-4a9ccc1454b2" width="400" height="300" />
+  <img src="https://github.com/user-attachments/assets/efd0bac6-80ef-49dd-b34e-75b7966a6604" width="400" height="400" />
+  <img src="https://github.com/user-attachments/assets/bf849216-862d-4b7e-954d-4a9ccc1454b2" width="400" height="400" />
 </p>
 
 ---
