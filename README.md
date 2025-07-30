@@ -1,38 +1,29 @@
-# 📱 Campus Placement Prediction App
+# 🎓 Campus Placement App
 
-An Android application designed to help assess student placement readiness based on academic details, test scores, and skill evaluations. Built for Training & Placement Officers (TPOs) to monitor students in real-time.
+The Campus Placement App is a real-time Android application designed to streamline the placement process for our college. It allows **students** to register, upload resumes, and apply for job opportunities posted by **recruiters**, while **admins** can track placement statistics and manage records — making the entire process efficient and transparent.
+
+---
 
 ## 🚀 Features
 
-- 👤 Student Registration & Login (Firebase Authentication)
-- ☁️ Realtime data storage using Firebase Realtime Database
-- 🔍 Rule-based logic to classify students:
-  - ✅ **Ready for Placement**
-  - ⚠️ **At Risk**
-- 📋 Form to enter academic data (10th, 12th, Degree marks)
-- 📝 Internal/Skill test input with result evaluation
-- 🛡️ Admin dashboard to monitor student status
+- 👨‍🎓 Real-time student registration and profile updates
+- 💼 Centralized job posting and application system
+- 🔔 Notifications for job updates, interview schedules, and results
+- 🛠️ Admin dashboard for managing placement statistics and records
+- 📱 Responsive design for smooth experience across all devices
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Platform**: Android (Java or Kotlin)
-- **IDE**: Android Studio
-- **Backend**: Firebase
+- 🎨 **Design**: Figma (UI/UX wireframes)
+- 💻 **Frontend**: Java, XML (Android Studio)
+- ☁️ **Backend**: Firebase
   - Authentication
   - Realtime Database
-- **UI**: XML + Material Design
+  - Notifications (Firebase Cloud Messaging)
 
-## 🧠 Prediction Logic
-
-The app uses **rule-based evaluation**, not machine learning. Example:
-
-- If 10th %, 12th %, Degree % > 60  
-- AND Skill Test Score > 60%  
-- THEN: ✅ **Ready**  
-- ELSE: ⚠️ **At Risk**
-
-> Logic is defined in utility classes or main activity (e.g., `Predictor.java` or `MainActivity.java`).
-
+---
 
 ## 📷 Screenshots
 
@@ -43,6 +34,7 @@ The app uses **rule-based evaluation**, not machine learning. Example:
   <img src="https://github.com/user-attachments/assets/bf849216-862d-4b7e-954d-4a9ccc1454b2" width="500" height="500" />
 </p>
 
+---
 ## 🔧 How to Run
 
 1. Open the project in **Android Studio**
@@ -53,7 +45,5 @@ The app uses **rule-based evaluation**, not machine learning. Example:
 
 ## 🧑‍💻 Developer
 
-Made with ❤️ by **Roshan Dandge , Rushikesh Joshi , Vijay Shilwant , Shreyash Rajput** 
+Made with ❤️ by **Roshan Dandge , Rushikesh joshi , Vijay Shilwant , Shreyash rajput**  
 🔗 [GitHub: RoshanDandge25](https://github.com/RoshanDandge25)
-
-
