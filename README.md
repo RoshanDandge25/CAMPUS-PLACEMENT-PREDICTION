@@ -33,6 +33,12 @@ The app uses **rule-based evaluation**, not machine learning. Example:
 
 > Logic is defined in utility classes or main activity (e.g., `Predictor.java` or `MainActivity.java`).
 
+# Secreenshot
+> <img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/4fb2db4e-395c-48fe-9910-8ff856637eed" />
+![WhatsApp Image 2025-07-30 at 15 50 15_e65beea5](https://github.com/user-attachments/assets/b46a7156-5a93-464b-9c0b-b40b2aad092e)
+<img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/e099fc20-fa79-4707-87aa-4d98bbecfcba" />
+<img width="871" height="797" alt="Flow 1" src="https://github.com/user-attachments/assets/f7a4f7a4-8d7d-4b60-b80c-0cde936ab707" />
+
 ## 🔧 How to Run
 
 1. Open the project in **Android Studio**
