@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/font/aclonica.xml" value="0.22666666666666666" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_about_app.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_about_developers.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_detail_update.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_quiz.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_rating_app.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_resume.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_resume2.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_terms_condition.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_update_student_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_updates.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/activity_videos.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/fragment_1.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/fragment_2.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/layout/recyler_row_item_update.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/AndroidStudioProjects/TPOStudent/app/src/main/res/menu/main_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

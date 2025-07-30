@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tpostudentss">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/campuslogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/campuslogo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.tpostudentss.Resume2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tpostudentss.DetailUpdateActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tpostudentss.UpdateStudentProfile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tpostudentss.Resume"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.Quiz"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.Updates"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.LoginActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.Profile"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.Placement"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.AboutDevelopers"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.RatingApp"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.About_App"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.TermsCondition"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.MainActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.ResetPasswordActivity"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.LoginActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.RegisterActivity"
+            android:exported="false"
+            android:parentActivityName="com.example.tpostudentss.LoginActivity"
+            />
+        <activity
+            android:name="com.example.tpostudentss.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.tpostudentss.MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

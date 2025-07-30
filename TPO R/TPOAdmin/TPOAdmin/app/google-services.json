@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "285096524888",
+    "firebase_url": "https://tpo-app-242b8-default-rtdb.firebaseio.com",
+    "project_id": "tpo-app-242b8",
+    "storage_bucket": "tpo-app-242b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285096524888:android:a4d5878a3319c56f359e2d",
+        "android_client_info": {
+          "package_name": "com.example.tpoadminss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQBDgp5uc8J3LTgo9cuFZrJv4vIJoQNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285096524888:android:cd12081bae0bad0d359e2d",
+        "android_client_info": {
+          "package_name": "com.mind.campusadmins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQBDgp5uc8J3LTgo9cuFZrJv4vIJoQNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
